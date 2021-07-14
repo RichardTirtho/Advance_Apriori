@@ -45,7 +45,7 @@ basket = data.groupby(['InvoiceNo','CustomerID']).agg({'StockCode': lambda s: li
 a=time.time()
 freqItemSet, rules = fpgrowth(basket['StockCode'].values, minSupRatio=0.005, minConf=0.3)
 b=time.time()
-print('time to execute in seconds : ',b-a, ' s.')
+print('time to execute in seconds : ',b-a, ' secs.')
 print('Number of rules generated : ', len(rules))
 
 association=pd.DataFrame(rules,columns =['basket','next_product','proba'])
