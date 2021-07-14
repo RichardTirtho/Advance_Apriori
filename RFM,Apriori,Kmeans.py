@@ -192,3 +192,31 @@ kmeans = KMeans(n_clusters=5, init='k-means++', max_iter=300)
 # print(rfm.mean())
 #
 # print(kmeans.inertia_)
+
+
+
+
+
+
+
+
+
+
+
+
+
+#-----------------------------------------Apriori--------------------------------------------------------------------
+
+from mlxtend.frequent_patterns import apriori
+from mlxtend.frequent_patterns import association_rules
+
+
+df = df.copy()
+df.query('Quantity < -80000')
+df.query('Quantity > 80000')
+
+basket = df.groupby(['InvoiceNo','Description'])['Quantity'].sum().unstack()
+print(basket.shape)
+
+basket = basket.applymap(basket.iloc[0].value_counts())
+print(basket.head(1))
