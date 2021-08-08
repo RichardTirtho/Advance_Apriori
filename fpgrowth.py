@@ -31,9 +31,9 @@ data= data[data['StockCode'].map(lambda x: x not in stock_to_del)] # delete thes
 
 basket = data.groupby(['InvoiceNo','CustomerID']).agg({'StockCode': lambda s: list(set(s))}) # grouping product from the same invoice.
 
-# print('Dimension of the new grouped dataset : ', basket.shape)
-# print('----------')
-# print(basket.head(5))
+print('Dimension of the new grouped dataset : ', basket.shape)
+print('----------')
+print(basket.head(5))
 
 
 

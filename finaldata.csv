@@ -1,0 +1,700 @@
+InvoiceNo,StockCode,Item_name,Quantity,InvoiceDate,Unit_price(TK),CustomerID,Gender,Married_status,Age,Profession,Location,Spending_score,Customer_type
+536365,85123m,milk,1,07/01/2018 08:30,80,10102,male,yes,25-35,doctor,dhaka,high,member
+536365,84143d,dark fantasy,2,07/01/2018 08:30,150,10102,male,yes,25-35,doctor,dhaka,high,member
+536365,70768o,oats,1,07/01/2018 08:30,600,10102,male,yes,25-35,doctor,dhaka,high,member
+536365,87098e,egg,12,07/01/2018 08:30,96,10102,male,yes,25-35,doctor,dhaka,high,member
+536365,80457i,ispahani tea,1,07/01/2018 08:30,300,10102,male,yes,25-35,doctor,dhaka,high,member
+536365,74012p,pran sauce,1,07/01/2018 08:30,150,10102,male,yes,25-35,doctor,dhaka,high,member
+536367,67459d,dansih full milk cream,1,07/01/2018 08:31,550,10178,male,yes,>35,teacher,dhaka,medium,normal
+536367,67398d,dream whip topping mix,1,07/01/2018 08:31,180,10178,male,yes,>35,teacher,dhaka,medium,normal
+536370,67340p,pure turmaric,2,07/01/2018 08:33,190,10013,female,yes,25-35,housewife,dhaka,medium,normal
+536370,87000,aci pure atta,1,07/01/2018 08:33,81,10013,female,yes,25-35,housewife,dhaka,medium,normal
+536370,45987,fresh soyebean oil,1,07/01/2018 08:33,712,10013,female,yes,25-35,housewife,dhaka,medium,normal
+536370,24570,pran all time milk bread,2,07/01/2018 08:33,90,10013,female,yes,25-35,housewife,dhaka,medium,normal
+536370,18751p,pran mix fruit,1,07/01/2018 08:33,110,10013,female,yes,25-35,housewife,dhaka,medium,normal
+536370,95432,honey,1,07/01/2018 08:33,122,10013,female,yes,25-35,housewife,dhaka,medium,normal
+536370,60984,onion,1,07/01/2018 08:33,52,10013,female,yes,25-35,housewife,dhaka,medium,normal
+536371,56890f,flour,1,07/01/2018 08:40,70,19874,male,no,25-35,engineer,dhaka,medium,member
+536371,89124,sugar,1,07/01/2018 08:40,78,19874,male,no,25-35,engineer,dhaka,medium,member
+536371,87098e,egg,12,07/01/2018 08:40,96,19874,male,no,25-35,engineer,dhaka,medium,member
+536371,98753b,baking soda,1,07/01/2018 08:40,50,19874,male,no,25-35,engineer,dhaka,medium,member
+536371,98754b,baking powder,1,07/01/2018 08:40,100,19874,male,no,25-35,engineer,dhaka,medium,member
+536371,98456v,vanilla essence,1,07/01/2018 08:40,60,19874,male,no,25-35,engineer,dhaka,medium,member
+536371,21755,coco powder,1,07/01/2018 08:40,70,19874,male,no,25-35,engineer,dhaka,medium,member
+536371,85123m,milk,1,07/01/2018 08:40,80,19874,male,no,25-35,engineer,dhaka,medium,member
+536372,70768o,oats,1,07/01/2018 09:27,600,15678,female,no,<25,student,dhaka,medium,member
+536372,87098e,egg,6,07/01/2018 09:27,48,15678,female,no,<25,student,dhaka,medium,member
+536372,77098,apple cider vinegar,1,07/01/2018 09:27,210,15678,female,no,<25,student,dhaka,medium,member
+536372,85124m,low fat milk,1,07/01/2018 09:27,320,15678,female,no,<25,student,dhaka,medium,member
+536372,85133y,sour yoghurt,1,07/01/2018 09:27,25,15678,female,no,<25,student,dhaka,medium,member
+536372,80457i,ispahani tea,1,07/01/2018 09:27,300,15678,female,no,<25,student,dhaka,medium,member
+536372,95432,honey,1,07/01/2018 09:27,122,15678,female,no,<25,student,dhaka,medium,member
+536373,56890f,flour,2,07/01/2018 09:35,70,22397,female,yes,25-35,doctor,dhaka,high,member
+536373,87098e,egg,4,07/01/2018 09:35,32,22397,female,yes,25-35,doctor,dhaka,high,member
+536373,98754b,baking powder,1,07/01/2018 09:35,100,22397,female,yes,25-35,doctor,dhaka,high,member
+536373,99875,mozzarella cheese,1,07/01/2018 09:35,220,22397,female,yes,25-35,doctor,dhaka,high,member
+536373,67789,pizza sauce,1,07/01/2018 09:35,400,22397,female,yes,25-35,doctor,dhaka,high,member
+536373,88890,oregano,1,07/01/2018 09:35,70,22397,female,yes,25-35,doctor,dhaka,high,member
+536373,74012p,pran sauce,1,07/01/2018 09:35,150,22397,female,yes,25-35,doctor,dhaka,high,member
+536373,12345s,salt,1,07/01/2018 09:35,60,22397,female,yes,25-35,doctor,dhaka,high,member
+536373,12345,broiler chicken,1,07/01/2018 09:35,199,22397,female,yes,25-35,doctor,dhaka,high,member
+536373,45987,pran ghee,1,07/01/2018 09:35,565,22397,female,yes,25-35,doctor,dhaka,high,member
+536374,56789c,chinigura chal,2,07/01/2018 12:59,245,45678,male,yes,>35,businessman ,khulna,high,member
+536374,12346,beef,2,07/01/2018 12:59,1200,45678,male,yes,>35,businessman ,khulna,high,member
+536374,85133y,sour yoghurt,2,07/01/2018 12:59,50,45678,male,yes,>35,businessman ,khulna,high,member
+536374,60984,onion,2,07/01/2018 12:59,102,45678,male,yes,>35,businessman ,khulna,high,member
+536374,45990,green chilli ,1,07/01/2018 12:59,50,45678,male,yes,>35,businessman ,khulna,high,member
+536374,45988,ginger,1,07/01/2018 12:59,40,45678,male,yes,>35,businessman ,khulna,high,member
+536374,45989,garlic,1,07/01/2018 12:59,85,45678,male,yes,>35,businessman ,khulna,high,member
+536374,45987,pran ghee,1,07/01/2018 12:59,565,45678,male,yes,>35,businessman ,khulna,high,member
+536374,89124,sugar,2,07/01/2018 12:59,156,45678,male,yes,>35,businessman ,khulna,high,member
+536374,12345s,salt,2,07/01/2018 12:59,120,45678,male,yes,>35,businessman ,khulna,high,member
+536374,85123m,milk,1,07/01/2018 12:59,80,45678,male,yes,>35,businessman ,khulna,high,member
+536374,56789,potato,2,07/01/2018 12:59,50,45678,male,yes,>35,businessman ,khulna,high,member
+536375,67983,mac coffee,1,07/01/2018 15:09,395,98764,female,no,<25,student,dhaka,high,member
+536375,67984,coco powder,1,07/01/2018 15:09,70,98764,female,no,<25,student,dhaka,high,member
+536375,67985,coffe matte,1,07/01/2018 15:09,270,98764,female,no,<25,student,dhaka,high,member
+536375,85123m,milk,1,07/01/2018 15:09,80,98764,female,no,<25,student,dhaka,high,member
+536375,89124,sugar,1,07/01/2018 15:09,78,98764,female,no,<25,student,dhaka,high,member
+536375,24570,pran all time milk bread,1,07/01/2018 15:09,45,98764,female,no,<25,student,dhaka,high,member
+536375,67986,nocilla cream,1,07/01/2018 15:09,130,98764,female,no,<25,student,dhaka,high,member
+536375,67987,naples mayonnaise,1,07/01/2018 15:09,195,98764,female,no,<25,student,dhaka,high,member
+536375,89076p,plain toast,1,07/01/2018 15:09,50,98764,female,no,<25,student,dhaka,high,member
+536375,67985m,maggi noodles,1,07/01/2018 17:15,250,23076,female,no,25-35,student,dhaka,medium,member
+536375,45987,fresh soyebean oil,0.5,07/01/2018 17:15,356,23076,female,no,25-35,student,dhaka,medium,member
+536375,87098e,egg,12,07/01/2018 17:15,96,23076,female,no,25-35,student,dhaka,medium,member
+536375,60984,onion,1,07/01/2018 17:15,102,23076,female,no,25-35,student,dhaka,medium,member
+536375,45990,green chilli ,0.5,07/01/2018 17:15,25,23076,female,no,25-35,student,dhaka,medium,member
+536375,12345,broiler chicken,1,07/01/2018 17:15,199,23076,female,no,25-35,student,dhaka,medium,member
+536375,12309,sausage,1,07/01/2018 17:15,120,23076,female,no,25-35,student,dhaka,medium,member
+536375,99875,mozzarella cheese,1,07/01/2018 17:15,220,23076,female,no,25-35,student,dhaka,medium,member
+536375,74012p,pran sauce,1,07/01/2018 17:15,150,23076,female,no,25-35,student,dhaka,medium,member
+536376,98789,cocoaland cheese ring craker,1,07/01/2018 20:47,250,10981,male,yes,25-35,employee,dhaka,high,normal
+536376,98790,pure magic chocolush,1,07/01/2018 20:47,80,10981,male,yes,25-35,employee,dhaka,high,normal
+536376,98791,choc chip cookie,1,07/01/2018 20:47,399,10981,male,yes,25-35,employee,dhaka,high,normal
+536376,98792,yupi gummi pizza candy,1,07/01/2018 20:47,320,10981,male,yes,25-35,employee,dhaka,high,normal
+536376,98793,dewberry cream sandwich cookies-strawberry,1,07/01/2018 20:47,147,10981,male,yes,25-35,employee,dhaka,high,normal
+536376,85123m,milk,2,07/01/2018 20:47,160,10981,male,yes,25-35,employee,dhaka,high,normal
+536376,19087m,mixed nuts,1,07/01/2018 20:47,220,10981,male,yes,25-35,employee,dhaka,high,normal
+536377,54321m,amul dark chocolate,1,08/01/2018 09:39,280,56198,female,yes,<25,student,chittagong,high,member
+536377,67985,coffe matte,1,08/01/2018 09:39,270,56198,female,yes,<25,student,chittagong,high,member
+536377,67983,mac coffee,1,08/01/2018 09:39,395,56198,female,yes,<25,student,chittagong,high,member
+536377,54321k,kitkat,2,08/01/2018 09:39,130,56198,female,yes,<25,student,chittagong,high,member
+536377,19087m,mixed nuts,1,08/01/2018 09:39,220,56198,female,yes,<25,student,chittagong,high,member
+536377,85123m,milk,1,08/01/2018 09:39,80,56198,female,yes,<25,student,chittagong,high,member
+536377,67459d,dansih full milk cream,1,08/01/2018 09:39,220,56198,female,yes,<25,student,chittagong,high,member
+536378,78943cw,chicken wings,1,08/01/2018 11:15,234,98340,female,yes,25-35,employee,dhaka,high,member
+536378,78943ct,boneless chicken thigs,1,08/01/2018 11:15,339,98340,female,yes,25-35,employee,dhaka,high,member
+536378,12346bk,beef keema,1,08/01/2018 11:15,480,98340,female,yes,25-35,employee,dhaka,high,member
+536378,98753c,kashmiri chilli powder,1,08/01/2018 11:15,150,98340,female,yes,25-35,employee,dhaka,high,member
+536378,98754c,thai chilli paste,1,08/01/2018 11:15,499,98340,female,yes,25-35,employee,dhaka,high,member
+536378,74012p,pran sauce,1,08/01/2018 11:15,150,98340,female,yes,25-35,employee,dhaka,high,member
+536378,87098e,egg,12,08/01/2018 11:15,96,98340,female,yes,25-35,employee,dhaka,high,member
+536378,98745s,shan tikka masala,1,08/01/2018 11:15,105,98340,female,yes,25-35,employee,dhaka,high,member
+536380,99875,mozzarella cheese,1,08/01/2018 14:00,120,20087,female,no,<25,student,coxs_bazar,low,normal
+536380,21234s,pasta hat spirali pasta,1,08/01/2018 14:00,129,20087,female,no,<25,student,coxs_bazar,low,normal
+536380,21234m,pasta hat macaroni rigate,1,08/01/2018 14:00,150,20087,female,no,<25,student,coxs_bazar,low,normal
+536380,21234c,pasta hat corni meduim,1,08/01/2018 14:00,120,20087,female,no,<25,student,coxs_bazar,low,normal
+536380,85123m,milk,1,08/01/2018 14:00,80,20087,female,no,<25,student,coxs_bazar,low,normal
+536380,88890,oregano,1,08/01/2018 14:00,70,20087,female,no,<25,student,coxs_bazar,low,normal
+536380,67789,pizza sauce,1,08/01/2018 14:00,400,20087,female,no,<25,student,coxs_bazar,low,normal
+536380,78943ct,boneless chicken thigs,1,08/01/2018 14:00,339,20087,female,no,<25,student,coxs_bazar,low,normal
+536381,31234d,dory bonless fish,1,08/01/2018 14:55,580,37890,male,yes,>35,employee,dhaka,high,member
+536381,31234h,hilsha fish,0.5,08/01/2018 14:55,550,37890,male,yes,>35,employee,dhaka,high,member
+536381,31234r,rui deshi ,1.5,08/01/2018 14:55,290,37890,male,yes,>35,employee,dhaka,high,member
+536381,31234hc,horina chingri,1,08/01/2018 14:55,650,37890,male,yes,>35,employee,dhaka,high,member
+536381,31234p,pabda meduim,1,08/01/2018 14:55,360,37890,male,yes,>35,employee,dhaka,high,member
+536381,67789ss,soya sauce,1,08/01/2018 14:55,70,37890,male,yes,>35,employee,dhaka,high,member
+536381,67789fs,fish sauce,1,08/01/2018 14:55,270,37890,male,yes,>35,employee,dhaka,high,member
+536381,12345,broiler chicken,2,08/01/2018 14:55,398,37890,male,yes,>35,employee,dhaka,high,member
+536381,45989,garlic,1,08/01/2018 14:55,85,37890,male,yes,>35,employee,dhaka,high,member
+536381,45988,ginger,1,08/01/2018 14:55,40,37890,male,yes,>35,employee,dhaka,high,member
+536381,45990,green chilli ,1,08/01/2018 14:55,50,37890,male,yes,>35,employee,dhaka,high,member
+536381,60984,onion,2,08/01/2018 14:55,204,37890,male,yes,>35,employee,dhaka,high,member
+536381,56789,potato,2,08/01/2018 14:55,50,37890,male,yes,>35,employee,dhaka,high,member
+536381,12346,beef,2,08/01/2018 14:55,1200,37890,male,yes,>35,employee,dhaka,high,member
+536382,87065m,malta,1,08/01/2018 16:01,155,63330,female,yes,>35,employee,dhaka,high,member
+536382,87065mn,mango,1,08/01/2018 16:01,150,63330,female,yes,>35,employee,dhaka,high,member
+536382,87065gr,graps red,1,08/01/2018 16:01,475,63330,female,yes,>35,employee,dhaka,high,member
+536382,87065ga,green apple,1,08/01/2018 16:01,225,63330,female,yes,>35,employee,dhaka,high,member
+536382,87065b,banana,6,08/01/2018 16:01,72,63330,female,yes,>35,employee,dhaka,high,member
+536382,87066p,puisak,2,08/01/2018 16:01,50,63330,female,yes,>35,employee,dhaka,high,member
+536382,87066k,kochur mukhi,1,08/01/2018 16:01,65,63330,female,yes,>35,employee,dhaka,high,member
+536382,87066s,sweet potato,1,08/01/2018 16:01,55,63330,female,yes,>35,employee,dhaka,high,member
+536382,67789ss,soya sauce,1,08/01/2018 16:01,70,63330,female,yes,>35,employee,dhaka,high,member
+536382,67789os,oyster sauce,1,08/01/2018 16:01,425,63330,female,yes,>35,employee,dhaka,high,member
+536384,85123m,milk,2,08/01/2018 18:00,160,23098,female,yes,25-35,lawyer,chittagong,high,normal
+536384,87098e,egg,12,08/01/2018 18:00,96,23098,female,yes,25-35,lawyer,chittagong,high,normal
+536384,87065b,banana,12,08/01/2018 18:00,144,23098,female,yes,25-35,lawyer,chittagong,high,normal
+536384,67459d,dansih full milk cream,1,08/01/2018 18:00,550,23098,female,yes,25-35,lawyer,chittagong,high,normal
+536384,24570,pran all time milk bread,1,08/01/2018 18:00,45,23098,female,yes,25-35,lawyer,chittagong,high,normal
+536384,95432,honey,1,08/01/2018 18:00,122,23098,female,yes,25-35,lawyer,chittagong,high,normal
+536384,85133y,sour yoghurt,1,08/01/2018 18:00,25,23098,female,yes,25-35,lawyer,chittagong,high,normal
+536384,54321k,kitkat,2,08/01/2018 18:00,130,23098,female,yes,25-35,lawyer,chittagong,high,normal
+536384,19087m,mixed nuts,1,08/01/2018 18:00,220,23098,female,yes,25-35,lawyer,chittagong,high,normal
+536385,87066s,sweet potato,1,09/01/2018 09:50,55,10118,male,yes,>35,teacher,dhaka,high,member
+536385,56789,potato,1,09/01/2018 09:50,25,10118,male,yes,>35,teacher,dhaka,high,member
+536385,12345,broiler chicken,1,09/01/2018 09:50,199,10118,male,yes,>35,teacher,dhaka,high,member
+536385,98753c,kashmiri chilli powder,1,09/01/2018 09:50,150,10118,male,yes,>35,teacher,dhaka,high,member
+536385,31234r,rui deshi ,1.5,09/01/2018 09:50,290,10118,male,yes,>35,teacher,dhaka,high,member
+536385,98745s,shan tikka masala,1,09/01/2018 09:50,105,10118,male,yes,>35,teacher,dhaka,high,member
+536385,45987,fresh soyebean oil,0.5,09/01/2018 09:50,356,10118,male,yes,>35,teacher,dhaka,high,member
+536385,80457i,ispahani tea,1,09/01/2018 09:50,300,10118,male,yes,>35,teacher,dhaka,high,member
+536385,85123m,milk,1,09/01/2018 09:50,80,10118,male,yes,>35,teacher,dhaka,high,member
+536385,89124,sugar,1,09/01/2018 09:50,78,10118,male,yes,>35,teacher,dhaka,high,member
+536385,85123cm,danish condensed milk,1,09/01/2018 09:50,70,10118,male,yes,>35,teacher,dhaka,high,member
+536386,67459d,dansih full milk cream,1,09/01/2018 11:34,550,10102,male,yes,25-35,doctor,dhaka,high,member
+536386,67398d,dream whip topping mix,1,09/01/2018 11:34,180,10102,male,yes,25-35,doctor,dhaka,high,member
+536386,19087m,mixed nuts,1,09/01/2018 11:34,220,10102,male,yes,25-35,doctor,dhaka,high,member
+536386,54321m,amul dark chocolate,1,09/01/2018 11:34,280,10102,male,yes,25-35,doctor,dhaka,high,member
+536386,98789,cocoaland cheese ring craker,1,09/01/2018 11:34,250,10102,male,yes,25-35,doctor,dhaka,high,member
+536386,98790,pure magic chocolush,1,09/01/2018 11:34,80,10102,male,yes,25-35,doctor,dhaka,high,member
+536387,98753b,baking soda,1,09/01/2018 13:09,50,89000,male,no,<25,student,comilla,high,normal
+536387,98754b,baking powder,1,09/01/2018 13:09,100,89000,male,no,<25,student,comilla,high,normal
+536387,98456v,vanilla essence,1,09/01/2018 13:09,60,89000,male,no,<25,student,comilla,high,normal
+536387,21755,coco powder,1,09/01/2018 13:09,70,89000,male,no,<25,student,comilla,high,normal
+536387,19087m,mixed nuts,1,09/01/2018 13:09,220,89000,male,no,<25,student,comilla,high,normal
+536387,54321m,amul dark chocolate,1,09/01/2018 13:09,280,89000,male,no,<25,student,comilla,high,normal
+536387,85123cm,danish condensed milk,1,09/01/2018 13:09,70,89000,male,no,<25,student,comilla,high,normal
+536387,67398d,dream whip topping mix,1,09/01/2018 13:09,180,89000,male,no,<25,student,comilla,high,normal
+536388,87098e,egg,6,09/01/2018 14:30,48,51234,female,yes,<25,housewife,dhaka,high,member
+536388,87066s,sweet potato,1,09/01/2018 14:30,55,51234,female,yes,<25,housewife,dhaka,high,member
+536388,56789,potato,2,09/01/2018 14:30,50,51234,female,yes,<25,housewife,dhaka,high,member
+536388,12345,broiler chicken,1,09/01/2018 14:30,199,51234,female,yes,<25,housewife,dhaka,high,member
+536388,45989,garlic,1,09/01/2018 14:30,85,51234,female,yes,<25,housewife,dhaka,high,member
+536388,45988,ginger,1,09/01/2018 14:30,40,51234,female,yes,<25,housewife,dhaka,high,member
+536388,45990,green chilli ,1,09/01/2018 14:30,50,51234,female,yes,<25,housewife,dhaka,high,member
+536388,60984,onion,1,09/01/2018 14:30,102,51234,female,yes,<25,housewife,dhaka,high,member
+536388,67789ss,soya sauce,1,09/01/2018 14:30,70,51234,female,yes,<25,housewife,dhaka,high,member
+536388,67789fs,fish sauce,1,09/01/2018 14:30,270,51234,female,yes,<25,housewife,dhaka,high,member
+536388,31234h,hilsha fish,0.5,09/01/2018 14:30,550,51234,female,yes,<25,housewife,dhaka,high,member
+536388,31234r,rui deshi ,1.5,09/01/2018 14:30,290,51234,female,yes,<25,housewife,dhaka,high,member
+536388,31234hc,horina chingri,1,09/01/2018 14:30,650,51234,female,yes,<25,housewife,dhaka,high,member
+536389,98671ls,aci pure laccha semai,1,09/01/2018 15:59,35,71209,female,yes,25-35,employee,dhaka,medium,normal
+536389,85123cm,danish condensed milk,1,09/01/2018 15:59,70,71209,female,yes,25-35,employee,dhaka,medium,normal
+536389,19087m,mixed nuts,1,09/01/2018 15:59,220,71209,female,yes,25-35,employee,dhaka,medium,normal
+536389,85123m,milk,1,09/01/2018 15:59,80,71209,female,yes,25-35,employee,dhaka,medium,normal
+536389,89124,sugar,1,09/01/2018 15:59,78,71209,female,yes,25-35,employee,dhaka,medium,normal
+536390,87098e,egg,12,09/01/2018 17:00,96,70009,female,no,25-35,employee,rajshahi,medium,normal
+536390,60984,onion,1,09/01/2018 17:00,52,70009,female,no,25-35,employee,rajshahi,medium,normal
+536390,88890,oregano,1,09/01/2018 17:00,70,70009,female,no,25-35,employee,rajshahi,medium,normal
+536390,67789,pizza sauce,1,09/01/2018 17:00,400,70009,female,no,25-35,employee,rajshahi,medium,normal
+536390,78943ct,boneless chicken thigs,1,09/01/2018 17:00,339,70009,female,no,25-35,employee,rajshahi,medium,normal
+536390,74012p,pran sauce,1,09/01/2018 17:00,150,70009,female,no,25-35,employee,rajshahi,medium,normal
+536390,12345s,salt,1,09/01/2018 17:00,60,70009,female,no,25-35,employee,rajshahi,medium,normal
+536390,67789os,oyster sauce,1,09/01/2018 17:00,425,70009,female,no,25-35,employee,rajshahi,medium,normal
+536390,21234m,pasta hat macaroni rigate,1,09/01/2018 17:00,150,70009,female,no,25-35,employee,rajshahi,medium,normal
+536390,99875,mozzarella cheese,1,09/01/2018 17:00,220,70009,female,no,25-35,employee,rajshahi,medium,normal
+536392,85123m,milk,2,10/01/2018 08:49,160,81234,female,yes,25-35,housewife,chittagong,high,member
+536392,98124b,aarong butter,1,10/01/2018 08:49,105,81234,female,yes,25-35,housewife,chittagong,high,member
+536392,89124,sugar,1,10/01/2018 08:49,78,81234,female,yes,25-35,housewife,chittagong,high,member
+536392,87065b,banana,6,10/01/2018 08:49,72,81234,female,yes,25-35,housewife,chittagong,high,member
+536392,87098e,egg,4,10/01/2018 08:49,32,81234,female,yes,25-35,housewife,chittagong,high,member
+536393,85123m,milk,2,10/01/2018 10:10,160,10985,male,no,25-30,employee,dhaka,high,member
+536393,80457i,ispahani tea,1,10/01/2018 10:10,300,10985,male,no,25-30,employee,dhaka,high,member
+536393,67983,mac coffee,1,10/01/2018 10:10,395,10985,male,no,25-30,employee,dhaka,high,member
+536393,12345,broiler chicken,1,10/01/2018 10:10,199,10985,male,no,25-30,employee,dhaka,high,member
+536393,89124,sugar,1,10/01/2018 10:10,78,10985,male,no,25-30,employee,dhaka,high,member
+536393,12345s,salt,1,10/01/2018 10:10,60,10985,male,no,25-30,employee,dhaka,high,member
+536393,76845o,olitalia extra virgin olive oil 1ltr,1,10/01/2018 10:10,1250,10985,male,no,25-30,employee,dhaka,high,member
+536393,76845cr,capsicum red,0.5,10/01/2018 10:10,240,10985,male,no,25-30,employee,dhaka,high,member
+536393,76845cy,capsicum yellow,0.5,10/01/2018 10:10,240,10985,male,no,25-30,employee,dhaka,high,member
+536393,76845cg,capsicum green,0.5,10/01/2018 10:10,13,10985,male,no,25-30,employee,dhaka,high,member
+536393,31234r,rui deshi ,1.5,10/01/2018 10:10,290,10985,male,no,25-30,employee,dhaka,high,member
+536393,19087m,mixed nuts,1,10/01/2018 10:10,220,10985,male,no,25-30,employee,dhaka,high,member
+536393,54321m,amul dark chocolate,1,10/01/2018 10:10,280,10985,male,no,25-30,employee,dhaka,high,member
+536394,67841f,odonilnrose air freshner,4,10/01/2018 11:45,300,22397,female,yes,25-35,doctor,dhaka,high,member
+536394,67842g,mr.brasso glass cleaner,1,10/01/2018 11:45,140,22397,female,yes,25-35,doctor,dhaka,high,member
+536394,67843d,vim dishwash liquid pack,2,10/01/2018 11:45,50,22397,female,yes,25-35,doctor,dhaka,high,member
+536394,67844b,vim bar lemons,4,10/01/2018 11:45,48,22397,female,yes,25-35,doctor,dhaka,high,member
+536394,67845s,savlon disinfectant spray,1,10/01/2018 11:45,170,22397,female,yes,25-35,doctor,dhaka,high,member
+536394,67846c,dish cleaning scrubber,4,10/01/2018 11:45,100,22397,female,yes,25-35,doctor,dhaka,high,member
+536394,67847i,aci aerosol insect spray,1,10/01/2018 11:45,255,22397,female,yes,25-35,doctor,dhaka,high,member
+536394,67848h,harpic,1,10/01/2018 11:45,110,22397,female,yes,25-35,doctor,dhaka,high,member
+536395,91230o,parachute coconut oil,1,10/01/2018 13:30,135,10986,female,no,<25,student,dhaka,medium,member
+536395,89532ss,sunsilik black shine shampo,1,10/01/2018 13:30,185,10986,female,no,<25,student,dhaka,medium,member
+536395,78933cn,garnier color natural,2,10/01/2018 13:30,350,10986,female,no,<25,student,dhaka,medium,member
+536395,95432,honey,1,10/01/2018 13:30,122,10986,female,no,<25,student,dhaka,medium,member
+536396,76845o,olitalia extra virgin olive oil 1ltr,1,10/01/2018 14:45,1250,15009,male,no,25-35,teacher,chittagong,high,member
+536396,54321m,amul dark chocolate,2,10/01/2018 14:45,560,15009,male,no,25-35,teacher,chittagong,high,member
+536396,70768o,oats,1,10/01/2018 14:45,600,15009,male,no,25-35,teacher,chittagong,high,member
+536396,87098e,egg,6,10/01/2018 14:45,48,15009,male,no,25-35,teacher,chittagong,high,member
+536396,80457gt,lipton green tea,1,10/01/2018 14:45,230,15009,male,no,25-35,teacher,chittagong,high,member
+536396,67983,mac coffee,1,10/01/2018 14:45,395,15009,male,no,25-35,teacher,chittagong,high,member
+536396,77098,apple cider vinegar,1,10/01/2018 14:45,210,15009,male,no,25-35,teacher,chittagong,high,member
+536397,87066p,puisak,2,10/01/2018 16:00,50,90122,female,no,>35,employee,khulna,medium,normal
+536397,87066k,kochur mukhi,1,10/01/2018 16:00,65,90122,female,no,>35,employee,khulna,medium,normal
+536397,87066s,sweet potato,2,10/01/2018 16:00,110,90122,female,no,>35,employee,khulna,medium,normal
+536397,87065d,dates,1,10/01/2018 16:00,320,90122,female,no,>35,employee,khulna,medium,normal
+536397,87065dp,dry plum,2,10/01/2018 16:00,260,90122,female,no,>35,employee,khulna,medium,normal
+536398,10985r,radhuni kasondi,1,10/01/2018 17:24,45,89055,female,yes,25-35,housewife,rajshahi,medium,member
+536398,10897,corn flour,1,10/01/2018 17:24,70,89055,female,yes,25-35,housewife,rajshahi,medium,member
+536398,46078,kewra water,1,10/01/2018 17:24,20,89055,female,yes,25-35,housewife,rajshahi,medium,member
+536398,98108,chili sauce,1,10/01/2018 17:24,180,89055,female,yes,25-35,housewife,rajshahi,medium,member
+536398,67890,food colour,1,10/01/2018 17:24,65,89055,female,yes,25-35,housewife,rajshahi,medium,member
+536398,67789os,oyster sauce,1,10/01/2018 17:24,425,89055,female,yes,25-35,housewife,rajshahi,medium,member
+536398,67789ss,soya sauce,1,10/01/2018 17:24,70,89055,female,yes,25-35,housewife,rajshahi,medium,member
+536399,10912s,maggi soup,6,11/01/2018 09:16,240,51009,male,no,<25,student,chittagong,high,member
+536399,87098e,egg,12,11/01/2018 09:16,96,51009,male,no,<25,student,chittagong,high,member
+536399,10897,corn flour,1,11/01/2018 09:16,70,51009,male,no,<25,student,chittagong,high,member
+536399,10912cs,maggi corn soup,5,11/01/2018 09:16,200,51009,male,no,<25,student,chittagong,high,member
+536399,87066p,puisak,2,11/01/2018 09:16,50,51009,male,no,<25,student,chittagong,high,member
+536399,78943ct,boneless chicken thigs,1,11/01/2018 09:16,339,51009,male,no,<25,student,chittagong,high,member
+536399,12309,sausage,1,11/01/2018 09:16,120,51009,male,no,<25,student,chittagong,high,member
+536399,67985m,maggi noodles,1,11/01/2018 09:16,250,51009,male,no,<25,student,chittagong,high,member
+536399,76845cg,capsicum green,0.5,11/01/2018 09:16,13,51009,male,no,<25,student,chittagong,high,member
+536400,98000mo,moog daal,2,11/01/2018 10:46,280,70981,male,yes,25-35,journalist,dhaka,high,normal
+536400,98000ms,moshur daal,2,11/01/2018 10:46,210,70981,male,yes,25-35,journalist,dhaka,high,normal
+536400,98000bd,boot ar daal,3,11/01/2018 10:46,255,70981,male,yes,25-35,journalist,dhaka,high,normal
+536400,12346,beef,2,11/01/2018 10:46,1200,70981,male,yes,25-35,journalist,dhaka,high,normal
+536400,85133y,sour yoghurt,2,11/01/2018 10:46,50,70981,male,yes,25-35,journalist,dhaka,high,normal
+536400,60984,onion,2,11/01/2018 10:46,102,70981,male,yes,25-35,journalist,dhaka,high,normal
+536400,45990,green chilli ,1,11/01/2018 10:46,50,70981,male,yes,25-35,journalist,dhaka,high,normal
+536401,78004,curstard powder,1,11/01/2018 11:15,70,10099,female,no,25-35,unemployed,dhaka,medium,normal
+536401,67890,food colour,1,11/01/2018 11:15,65,10099,female,no,25-35,unemployed,dhaka,medium,normal
+536401,89124,sugar,1,11/01/2018 11:15,78,10099,female,no,25-35,unemployed,dhaka,medium,normal
+536401,85123m,milk,2,11/01/2018 11:15,160,10099,female,no,25-35,unemployed,dhaka,medium,normal
+536401,87065b,banana,6,11/01/2018 11:15,72,10099,female,no,25-35,unemployed,dhaka,medium,normal
+536401,85123cm,danish condensed milk,1,11/01/2018 11:15,70,10099,female,no,25-35,unemployed,dhaka,medium,normal
+536401,87065m,malta,1,11/01/2018 11:15,155,10099,female,no,25-35,unemployed,dhaka,medium,normal
+536401,87065mn,mango,1,11/01/2018 11:15,150,10099,female,no,25-35,unemployed,dhaka,medium,normal
+536401,87065ga,green apple,1,11/01/2018 11:15,225,10099,female,no,25-35,unemployed,dhaka,medium,normal
+536402,77245r,pran rose water,1,11/01/2018 13:01,15,10660,female,yes,>35,housewife,munshiganj,high,member
+536402,10897,corn flour,1,11/01/2018 13:01,70,10660,female,yes,>35,housewife,munshiganj,high,member
+536402,46078,kewra water,1,11/01/2018 13:01,20,10660,female,yes,>35,housewife,munshiganj,high,member
+536402,10985rb,radhuni biryani masala,2,11/01/2018 13:01,140,10660,female,yes,>35,housewife,munshiganj,high,member
+536402,12346,beef,1,11/01/2018 13:01,600,10660,female,yes,>35,housewife,munshiganj,high,member
+536402,87098e,egg,6,11/01/2018 13:01,48,10660,female,yes,>35,housewife,munshiganj,high,member
+536402,85133y,sour yoghurt,1,11/01/2018 13:01,25,10660,female,yes,>35,housewife,munshiganj,high,member
+536402,45989,garlic,1,11/01/2018 13:01,85,10660,female,yes,>35,housewife,munshiganj,high,member
+536402,45988,ginger,1,11/01/2018 13:01,40,10660,female,yes,>35,housewife,munshiganj,high,member
+536402,45990,green chilli ,1,11/01/2018 13:01,50,10660,female,yes,>35,housewife,munshiganj,high,member
+536402,60984,onion,1,11/01/2018 13:01,102,10660,female,yes,>35,housewife,munshiganj,high,member
+536402,67789ss,soya sauce,1,11/01/2018 13:01,70,10660,female,yes,>35,housewife,munshiganj,high,member
+536402,56789,potato,2,11/01/2018 13:01,50,10660,female,yes,>35,housewife,munshiganj,high,member
+536403,10985rf,radhuni firni mix,1,11/01/2018 14:55,40,70809,male,yes,>35,businessman,chittagong,low,normal
+536403,85123m,milk,1,11/01/2018 14:55,80,70809,male,yes,>35,businessman,chittagong,low,normal
+536403,19087k,kismis(100gm),1,11/01/2018 14:55,65,70809,male,yes,>35,businessman,chittagong,low,normal
+536403,87065d,dates,1,11/01/2018 14:55,320,70809,male,yes,>35,businessman,chittagong,low,normal
+536403,19087m,mixed nuts,1,11/01/2018 14:55,220,70809,male,yes,>35,businessman,chittagong,low,normal
+536403,85123cm,danish condensed milk,1,11/01/2018 14:55,70,70809,male,yes,>35,businessman,chittagong,low,normal
+536404,76845cr,capsicum red,0.5,11/01/2018 15:25,240,91200,female,yes,25-35,student,dhaka,medium,member
+536404,76845cy,capsicum yellow,0.5,11/01/2018 15:25,240,91200,female,yes,25-35,student,dhaka,medium,member
+536404,76845cg,capsicum green,0.5,11/01/2018 15:25,13,91200,female,yes,25-35,student,dhaka,medium,member
+536404,21234s,pasta hat spirali pasta,1,11/01/2018 15:25,129,91200,female,yes,25-35,student,dhaka,medium,member
+536404,21234m,pasta hat macaroni rigate,1,11/01/2018 15:25,150,91200,female,yes,25-35,student,dhaka,medium,member
+536404,76845o,olitalia extra virgin olive oil 1ltr,1,11/01/2018 15:25,1250,91200,female,yes,25-35,student,dhaka,medium,member
+536404,87066p,puisak,1,11/01/2018 15:25,25,91200,female,yes,25-35,student,dhaka,medium,member
+536404,12345,broiler chicken,1,11/01/2018 15:25,199,91200,female,yes,25-35,student,dhaka,medium,member
+536405,85123m,milk,1,11/01/2018 17:00,80,60913,male,no,<25,student,comilla,low,normal
+536405,84143d,dark fantasy,1,11/01/2018 17:00,75,60913,male,no,<25,student,comilla,low,normal
+536405,80457i,ispahani tea,1,11/01/2018 17:00,300,60913,male,no,<25,student,comilla,low,normal
+536405,67459d,dansih full milk cream,1,11/01/2018 17:00,550,60913,male,no,<25,student,comilla,low,normal
+536405,67398d,dream whip topping mix,1,11/01/2018 17:00,180,60913,male,no,<25,student,comilla,low,normal
+536405,98791,choc chip cookie,1,11/01/2018 17:00,399,60913,male,no,<25,student,comilla,low,normal
+536405,54321m,amul dark chocolate,1,11/01/2018 17:00,280,60913,male,no,<25,student,comilla,low,normal
+536405,54321k,kitkat,2,11/01/2018 17:00,130,60913,male,no,<25,student,comilla,low,normal
+536406,67841f,odonilnrose air freshner,2,11/01/2018 19:13,150,80127,male,yes,>35,firefighter,dhaka,medium,normal
+536406,67842g,mr.brasso glass cleaner,2,11/01/2018 19:13,280,80127,male,yes,>35,firefighter,dhaka,medium,normal
+536406,67843d,vim dishwash liquid pack,2,11/01/2018 19:13,50,80127,male,yes,>35,firefighter,dhaka,medium,normal
+536406,67845s,savlon disinfectant spray,1,11/01/2018 19:13,170,80127,male,yes,>35,firefighter,dhaka,medium,normal
+536406,67846c,dish cleaning scrubber,4,11/01/2018 19:13,100,80127,male,yes,>35,firefighter,dhaka,medium,normal
+536406,67847i,aci aerosol insect spray,2,11/01/2018 19:13,510,80127,male,yes,>35,firefighter,dhaka,medium,normal
+536407,67844b,vim bar lemons,4,12/01/2018 11:45,48,10987,female,yes,25-35,saleswoman,barishal,medium,member
+536407,67845s,savlon disinfectant spray,1,12/01/2018 11:45,170,10987,female,yes,25-35,saleswoman,barishal,medium,member
+536407,67846c,dish cleaning scrubber,4,12/01/2018 11:45,100,10987,female,yes,25-35,saleswoman,barishal,medium,member
+536407,67847i,aci aerosol insect spray,1,12/01/2018 11:45,255,10987,female,yes,25-35,saleswoman,barishal,medium,member
+536407,67848h,harpic,1,12/01/2018 11:45,110,10987,female,yes,25-35,saleswoman,barishal,medium,member
+536407,91230o,parachute coconut oil,1,12/01/2018 11:45,135,10987,female,yes,25-35,saleswoman,barishal,medium,member
+536407,89532ss,sunsilik black shine shampo,1,12/01/2018 11:45,185,10987,female,yes,25-35,saleswoman,barishal,medium,member
+536407,78933cn,garnier color natural,2,12/01/2018 11:45,350,10987,female,yes,25-35,saleswoman,barishal,medium,member
+536407,45987,fresh soyebean oil,0.5,12/01/2018 11:45,356,10987,female,yes,25-35,saleswoman,barishal,medium,member
+536408,85123m,milk,1,12/01/2018 15:08,80,89100,female,yes,>35,housewife,dhaka,high,member
+536408,87098e,egg,12,12/01/2018 15:08,96,89100,female,yes,>35,housewife,dhaka,high,member
+536408,80457i,ispahani tea,1,12/01/2018 15:08,300,89100,female,yes,>35,housewife,dhaka,high,member
+536408,74012p,pran sauce,1,12/01/2018 15:08,150,89100,female,yes,>35,housewife,dhaka,high,member
+536408,67340p,pure turmaric,2,12/01/2018 15:08,190,89100,female,yes,>35,housewife,dhaka,high,member
+536408,87000,aci pure atta,1,12/01/2018 15:08,81,89100,female,yes,>35,housewife,dhaka,high,member
+536408,45987,fresh soyebean oil,1,12/01/2018 15:08,712,89100,female,yes,>35,housewife,dhaka,high,member
+536408,60984,onion,1,12/01/2018 15:08,52,89100,female,yes,>35,housewife,dhaka,high,member
+536408,56890f,flour,1,12/01/2018 15:08,70,89100,female,yes,>35,housewife,dhaka,high,member
+536408,89124,sugar,1,12/01/2018 15:08,78,89100,female,yes,>35,housewife,dhaka,high,member
+536408,70768o,oats,1,12/01/2018 15:08,600,89100,female,yes,>35,housewife,dhaka,high,member
+536408,87066s,sweet potato,1,12/01/2018 15:08,55,89100,female,yes,>35,housewife,dhaka,high,member
+536408,56789,potato,2,12/01/2018 15:08,50,89100,female,yes,>35,housewife,dhaka,high,member
+536408,45989,garlic,1,12/01/2018 15:08,85,89100,female,yes,>35,housewife,dhaka,high,member
+536408,45988,ginger,1,12/01/2018 15:08,40,89100,female,yes,>35,housewife,dhaka,high,member
+536408,45990,green chilli ,1,12/01/2018 15:08,50,89100,female,yes,>35,housewife,dhaka,high,member
+536408,60984,onion,1,12/01/2018 15:08,102,89100,female,yes,>35,housewife,dhaka,high,member
+536408,98124b,aarong butter,1,12/01/2018 15:08,105,89100,female,yes,>35,housewife,dhaka,high,member
+536408,67983,mac coffee,1,12/01/2018 15:08,395,89100,female,yes,>35,housewife,dhaka,high,member
+536408,12345s,salt,1,12/01/2018 15:08,60,89100,female,yes,>35,housewife,dhaka,high,member
+536408,76845o,olitalia extra virgin olive oil 1ltr,1,12/01/2018 15:08,1250,89100,female,yes,>35,housewife,dhaka,high,member
+536408,10897,corn flour,1,12/01/2018 15:08,70,89100,female,yes,>35,housewife,dhaka,high,member
+536408,67789ss,soya sauce,1,12/01/2018 15:08,70,89100,female,yes,>35,housewife,dhaka,high,member
+536408,10912cs,maggi corn soup,5,12/01/2018 15:08,200,89100,female,yes,>35,housewife,dhaka,high,member
+536408,67985m,maggi noodles,1,12/01/2018 15:08,250,89100,female,yes,>35,housewife,dhaka,high,member
+536408,98000mo,moog daal,2,12/01/2018 15:08,280,89100,female,yes,>35,housewife,dhaka,high,member
+536408,98000ms,moshur daal,2,12/01/2018 15:08,210,89100,female,yes,>35,housewife,dhaka,high,member
+536408,98000bd,boot ar daal,3,12/01/2018 15:08,255,89100,female,yes,>35,housewife,dhaka,high,member
+536408,67847i,aci aerosol insect spray,2,12/01/2018 15:08,510,89100,female,yes,>35,housewife,dhaka,high,member
+536408,67844b,vim bar lemons,4,12/01/2018 15:08,48,89100,female,yes,>35,housewife,dhaka,high,member
+536408,67848h,harpic,1,12/01/2018 15:08,110,89100,female,yes,>35,housewife,dhaka,high,member
+536408,91230o,parachute coconut oil,1,12/01/2018 15:08,135,89100,female,yes,>35,housewife,dhaka,high,member
+536408,45987,fresh soyebean oil,1,12/01/2018 15:08,712,89100,female,yes,>35,housewife,dhaka,high,member
+536409,98108,chili sauce,1,12/01/2018 17:20,180,81234,female,no,<25,artist,dhaka,low,member
+536409,67789os,oyster sauce,1,12/01/2018 17:20,425,81234,female,no,<25,artist,dhaka,low,member
+536409,67789ss,soya sauce,1,12/01/2018 17:20,70,81234,female,no,<25,artist,dhaka,low,member
+536409,10897,corn flour,1,12/01/2018 17:20,70,81234,female,no,<25,artist,dhaka,low,member
+536409,12309,sausage,3,12/01/2018 17:20,360,81234,female,no,<25,artist,dhaka,low,member
+536409,98754c,thai chilli paste,1,12/01/2018 17:20,499,81234,female,no,<25,artist,dhaka,low,member
+536409,98789,cocoaland cheese ring craker,1,12/01/2018 17:20,250,81234,female,no,<25,artist,dhaka,low,member
+536409,67789fs,fish sauce,1,12/01/2018 17:20,270,81234,female,no,<25,artist,dhaka,low,member
+536409,88890,oregano,1,12/01/2018 17:20,70,81234,female,no,<25,artist,dhaka,low,member
+536410,10001c,lays american style cream and onion,1,12/01/2018 19:45,25,20095,male,no,<25,unemployed,kustia,low,normal
+536410,10002c,detos chicken wings chips,1,12/01/2018 19:45,20,20095,male,no,<25,unemployed,kustia,low,normal
+536410,10003c,kurkure cream & onion chips,1,12/01/2018 19:45,25,20095,male,no,<25,unemployed,kustia,low,normal
+536410,10004c,haque pillow chocolate chips,1,12/01/2018 19:45,10,20095,male,no,<25,unemployed,kustia,low,normal
+536410,10005c,sun chips salt & pepper,1,12/01/2018 19:45,15,20095,male,no,<25,unemployed,kustia,low,normal
+536410,10006c,bombay sweets dalmoth chanchur,1,12/01/2018 19:45,40,20095,male,no,<25,unemployed,kustia,low,normal
+536410,10007c,pringles hot & spicy potato chips,1,12/01/2018 19:45,225,20095,male,no,<25,unemployed,kustia,low,normal
+536410,11000k,kath badam(almond) 50,1,12/01/2018 19:45,75,20095,male,no,<25,unemployed,kustia,low,normal
+536410,11001k,kaju badam(50),1,12/01/2018 19:45,90,20095,male,no,<25,unemployed,kustia,low,normal
+536411,91230o,parachute coconut oil,1,13/01/2018 08:59,135,22397,female,yes,25-35,doctor,dhaka,high,member
+536411,10001c,lays american style cream and onion,1,13/01/2018 08:59,50,22397,female,yes,25-35,doctor,dhaka,high,member
+536411,12309,sausage,1,13/01/2018 08:59,120,22397,female,yes,25-35,doctor,dhaka,high,member
+536411,10004c,haque pillow chocolate chips,10,13/01/2018 08:59,100,22397,female,yes,25-35,doctor,dhaka,high,member
+536411,98791,choc chip cookie,1,13/01/2018 08:59,399,22397,female,yes,25-35,doctor,dhaka,high,member
+536411,54321m,amul dark chocolate,1,13/01/2018 08:59,280,22397,female,yes,25-35,doctor,dhaka,high,member
+536411,54321k,kitkat,2,13/01/2018 08:59,130,22397,female,yes,25-35,doctor,dhaka,high,member
+536411,89532ss,sunsilik black shine shampo,1,13/01/2018 08:59,185,22397,female,yes,25-35,doctor,dhaka,high,member
+536412,12345,broiler chicken,3,13/01/2018 10:12,597,23397,male,yes,25-35,police,dhaka,high,member
+536412,45989,garlic,1,13/01/2018 10:12,85,23397,male,yes,25-35,police,dhaka,high,member
+536412,45988,ginger,1,13/01/2018 10:12,40,23397,male,yes,25-35,police,dhaka,high,member
+536412,45990,green chilli ,1,13/01/2018 10:12,50,23397,male,yes,25-35,police,dhaka,high,member
+536412,60984,onion,3,13/01/2018 10:12,306,23397,male,yes,25-35,police,dhaka,high,member
+536412,67789ss,soya sauce,2,13/01/2018 10:12,140,23397,male,yes,25-35,police,dhaka,high,member
+536412,67789fs,fish sauce,1,13/01/2018 10:12,270,23397,male,yes,25-35,police,dhaka,high,member
+536412,31234h,hilsha fish,1,13/01/2018 10:12,1100,23397,male,yes,25-35,police,dhaka,high,member
+536412,31234r,rui deshi ,1.5,13/01/2018 10:12,290,23397,male,yes,25-35,police,dhaka,high,member
+536413,10006c,bombay sweets dalmoth chanchur,2,13/01/2018 12:48,80,91008,male,no,25-35,student,chittagong,medium,member
+536413,67983,mac coffee,1,13/01/2018 12:48,395,91008,male,no,25-35,student,chittagong,medium,member
+536413,87065b,banana,6,13/01/2018 12:48,72,91008,male,no,25-35,student,chittagong,medium,member
+536413,87065d,dates,1,13/01/2018 12:48,320,91008,male,no,25-35,student,chittagong,medium,member
+536413,67985m,maggi noodles,1,13/01/2018 12:48,250,91008,male,no,25-35,student,chittagong,medium,member
+536413,84143d,dark fantasy,1,13/01/2018 12:48,75,91008,male,no,25-35,student,chittagong,medium,member
+536413,85123m,milk,1,13/01/2018 12:48,80,91008,male,no,25-35,student,chittagong,medium,member
+536413,80457i,ispahani tea,1,13/01/2018 12:48,300,91008,male,no,25-35,student,chittagong,medium,member
+536413,89124,sugar,1,13/01/2018 12:48,78,91008,male,no,25-35,student,chittagong,medium,member
+536414,99875,mozzarella cheese,1,13/01/2018 14:00,220,10980,female,yes,25-35,housewife,munshiganj,medium,normal
+536414,67986,nocilla cream,1,13/01/2018 14:00,130,10980,female,yes,25-35,housewife,munshiganj,medium,normal
+536414,67987,naples mayonnaise,1,13/01/2018 14:00,195,10980,female,yes,25-35,housewife,munshiganj,medium,normal
+536414,98793,dewberry cream sandwich cookies-strawberry,1,13/01/2018 14:00,147,10980,female,yes,25-35,housewife,munshiganj,medium,normal
+536414,54321k,kitkat,2,13/01/2018 14:00,130,10980,female,yes,25-35,housewife,munshiganj,medium,normal
+536414,19087m,mixed nuts,1,13/01/2018 14:00,220,10980,female,yes,25-35,housewife,munshiganj,medium,normal
+536414,87098e,egg,12,13/01/2018 14:00,96,10980,female,yes,25-35,housewife,munshiganj,medium,normal
+536414,87065b,banana,12,13/01/2018 14:00,144,10980,female,yes,25-35,housewife,munshiganj,medium,normal
+536415,24570,pran all time milk bread,1,13/01/2018 14:00,45,10980,female,yes,25-35,housewife,munshiganj,medium,normal
+536414,88890,oregano,1,13/01/2018 17:33,70,60111,female,no,<25,student,chittagong,low,normal
+536414,99875,mozzarella cheese,1,13/01/2018 17:33,440,60111,female,no,<25,student,chittagong,low,normal
+536414,67789,pizza sauce,1,13/01/2018 17:33,400,60111,female,no,<25,student,chittagong,low,normal
+536415,85123m,milk,2,14/01/2018 08:48,160,22397,female,yes,25-35,doctor,dhaka,high,member
+536415,19087m,mixed nuts,1,14/01/2018 08:48,220,22397,female,yes,25-35,doctor,dhaka,high,member
+536415,54321m,amul dark chocolate,1,14/01/2018 08:48,280,22397,female,yes,25-35,doctor,dhaka,high,member
+536415,67985,coffe matte,1,14/01/2018 08:48,270,22397,female,yes,25-35,doctor,dhaka,high,member
+536415,67983,mac coffee,1,14/01/2018 08:48,395,22397,female,yes,25-35,doctor,dhaka,high,member
+536415,54321k,kitkat,2,14/01/2018 08:48,130,22397,female,yes,25-35,doctor,dhaka,high,member
+536416,10003c,kurkure cream & onion chips,1,14/01/2018 10:01,25,20097,female,yes,>35,chef,dhaka,high,member
+536416,10004c,haque pillow chocolate chips,1,14/01/2018 10:01,10,20097,female,yes,>35,chef,dhaka,high,member
+536416,10005c,sun chips salt & pepper,1,14/01/2018 10:01,15,20097,female,yes,>35,chef,dhaka,high,member
+536416,10006c,bombay sweets dalmoth chanchur,1,14/01/2018 10:01,40,20097,female,yes,>35,chef,dhaka,high,member
+536416,10007c,pringles hot & spicy potato chips,1,14/01/2018 10:01,225,20097,female,yes,>35,chef,dhaka,high,member
+536417,76845o,olitalia extra virgin olive oil 1ltr,1,14/01/2018 11:39,1250,90127,male,no,>35,teacher,chittagong,high,normal
+536416,54321m,amul dark chocolate,1,14/01/2018 11:39,280,90127,male,no,>35,teacher,chittagong,high,normal
+536416,70768o,oats,1,14/01/2018 11:39,600,90127,male,no,>35,teacher,chittagong,high,normal
+536416,87098e,egg,6,14/01/2018 11:39,48,90127,male,no,>35,teacher,chittagong,high,normal
+536416,80457gt,lipton green tea,1,14/01/2018 11:39,230,90127,male,no,>35,teacher,chittagong,high,normal
+536416,67983,mac coffee,1,14/01/2018 11:39,395,90127,male,no,>35,teacher,chittagong,high,normal
+536416,87066s,sweet potato,1,14/01/2018 11:39,55,90127,male,no,>35,teacher,chittagong,high,normal
+536417,67841f,odonilnrose air freshner,2,14/01/2018 13:01,150,45678,male,yes,>35,businessman ,khulna,high,member
+536417,67842g,mr.brasso glass cleaner,2,14/01/2018 13:01,280,45678,male,yes,>35,businessman ,khulna,high,member
+536417,67843d,vim dishwash liquid pack,2,14/01/2018 13:01,50,45678,male,yes,>35,businessman ,khulna,high,member
+536417,67845s,savlon disinfectant spray,1,14/01/2018 13:01,170,45678,male,yes,>35,businessman ,khulna,high,member
+536417,67846c,dish cleaning scrubber,4,14/01/2018 13:01,100,45678,male,yes,>35,businessman ,khulna,high,member
+536417,67847i,aci aerosol insect spray,2,14/01/2018 13:01,510,45678,male,yes,>35,businessman ,khulna,high,member
+536417,67844b,vim bar lemons,4,14/01/2018 13:01,48,45678,male,yes,>35,businessman ,khulna,high,member
+536417,67847i,aci aerosol insect spray,1,14/01/2018 13:01,255,45678,male,yes,>35,businessman ,khulna,high,member
+536417,67848h,harpic,1,14/01/2018 13:01,110,45678,male,yes,>35,businessman ,khulna,high,member
+536417,91230o,parachute coconut oil,1,14/01/2018 13:01,135,45678,male,yes,>35,businessman ,khulna,high,member
+536417,89532ss,sunsilik black shine shampo,1,14/01/2018 13:01,185,45678,male,yes,>35,businessman ,khulna,high,member
+536418,85123m,milk,2,14/01/2018 15:18,160,80097,male,no,<25,student,kustia,medium,member
+536418,84143d,dark fantasy,2,14/01/2018 15:18,150,80097,male,no,<25,student,kustia,medium,member
+536418,87098e,egg,6,14/01/2018 15:18,48,80097,male,no,<25,student,kustia,medium,member
+536418,24570,pran all time milk bread,2,14/01/2018 15:18,90,80097,male,no,<25,student,kustia,medium,member
+536418,95432,honey,1,14/01/2018 15:18,122,80097,male,no,<25,student,kustia,medium,member
+536418,21755,coco powder,1,14/01/2018 15:18,70,80097,male,no,<25,student,kustia,medium,member
+536419,67985m,maggi noodles,1,14/01/2018 16:28,250,91006,female,yes,<25,designer,sylhet,high,member
+536419,99875,mozzarella cheese,1,14/01/2018 16:28,220,91006,female,yes,<25,designer,sylhet,high,member
+536419,87098e,egg,12,14/01/2018 16:28,96,91006,female,yes,<25,designer,sylhet,high,member
+536419,98108,chili sauce,1,14/01/2018 16:28,180,91006,female,yes,<25,designer,sylhet,high,member
+536419,98754c,thai chilli paste,1,14/01/2018 16:28,499,91006,female,yes,<25,designer,sylhet,high,member
+536419,67789fs,fish sauce,1,14/01/2018 16:28,270,91006,female,yes,<25,designer,sylhet,high,member
+536419,88890,oregano,1,14/01/2018 16:28,70,91006,female,yes,<25,designer,sylhet,high,member
+536419,45990,green chilli ,1,14/01/2018 16:28,50,91006,female,yes,<25,designer,sylhet,high,member
+536419,60984,onion,1,14/01/2018 16:28,102,91006,female,yes,<25,designer,sylhet,high,member
+536419,45990,green chilli ,1,14/01/2018 16:28,50,91006,female,yes,<25,designer,sylhet,high,member
+536419,60984,onion,1,14/01/2018 16:28,102,91006,female,yes,<25,designer,sylhet,high,member
+536420,78989k,yellow black box print kurti,1,15/01/2018 10:11,990,81258,female,no,<25,student,bhola,medium,normal
+536420,29067,linen soild palazoo,2,15/01/2018 10:11,400,81258,female,no ,<25,student,bhola,medium,normal
+536420,89337,ladies leather bag,1,15/01/2018 10:11,1800,81258,female,no,<25,student,bhola,medium,normal
+536420,30996,ladies purse,1,15/01/2018 10:11,1650,81258,female,no,<25,student,bhola,medium,normal
+536420,61190,ladies half leather shoe,1,15/01/2018 10:11,1750,81258,female,no,<25,student,bhola,medium,normal
+536421,59730m,men's gabardine black pant,1,15/01/2018 11:59,600,69845,male,no,25-35,unemployed,comilla,high,member
+536421,32279,jeans pant bule light,1,15/01/2018 11:59,650,69845,male,no,25-35,unemployed,comilla,high,member
+536421,43290,jeans pant blue deep,1,15/01/2018 11:59,650,69845,male,no,25-35,unemployed,comilla,high,member
+536421,86759,men's jack & jones t-shirt,2,15/01/2018 11:59,900,69845,male,no,25-35,unemployed,comilla,high,member
+536421,28867,men's casul shirt,1,15/01/2018 11:59,599,69845,male,no,23-35,unemployed,comilla,high,member
+536421,10338,naviforce Nf9172L gents watch,1,15/01/2018 11:59,2289,69845,male,no,25-35,unemployed,comilla,high,member
+536422,50015h,hijab,1,15/01/2018 13:00,300,34876,female,yes,<25,housewife,dhaka,high,member
+536422,50015hp,hijab pin(1set),1,15/01/2018 13:00,30,34876,female,yes,<25,housewife,dhaka,high,member
+536422,78989k,yellow black box print kurti,1,15/01/2018 13:00,990,34876,female,yes,<25,housewife,dhaka,high,member
+536422,29067,linen soild palazoo,2,15/01/2018 13:00,400,34876,female,yes,<25,housewife,dhaka,high,member
+536423,67986,nocilla cream,3,15/01/2018 14:34,390,80333,female,no,25-35,student,dhaka,medium,member
+536423,98793,dewberry cream sandwich cookies-strawberry,1,15/01/2018 14:34,147,80333,female,no,25-35,student,dhaka,medium,member
+536423,54321k,kitkat,2,15/01/2018 14:34,130,80333,female,no,25-35,student,dhaka,medium,member
+536423,19087m,mixed nuts,1,15/01/2018 14:34,220,80333,female,no,25-35,student,dhaka,medium,member
+536423,85123m,milk,2,15/01/2018 14:34,160,80333,female,no,25-35,student,dhaka,medium,member
+536423,67985,coffe matte,1,15/01/2018 14:34,270,80333,female,no,25-35,student,dhaka,medium,member
+536423,67983,mac coffee,1,15/01/2018 14:34,395,80333,female,no,25-35,student,dhaka,medium,member
+536424,85123m,milk,1,15/01/2018 17:55,80,10846,female,yes,<25,dancer,sylhet,high,member
+536424,70768o,oats,1,15/01/2018 17:55,600,10846,female,yes,<25,dancer,sylhet,high,member
+536424,87098e,egg,6,15/01/2018 17:55,48,10846,female,yes,<25,dancer,sylhet,high,member
+536424,77098,apple cider vinegar,1,15/01/2018 17:55,210,10846,female,yes,<25,dancer,sylhet,high,member
+536424,85124m,low fat milk,1,15/01/2018 17:55,320,10846,female,yes,<25,dancer,sylhet,high,member
+536424,85133y,sour yoghurt,4,15/01/2018 17:55,100,10846,female,yes,<25,dancer,sylhet,high,member
+536424,80457i,ispahani tea,1,15/01/2018 17:55,300,10846,female,yes,<25,dancer,sylhet,high,member
+536424,95432,honey,1,15/01/2018 17:55,122,10846,female,yes,<25,dancer,sylhet,high,member
+536424,56890f,flour,2,15/01/2018 17:55,70,10846,female,yes,<25,dancer,sylhet,high,member
+536425,28867,men's casul shirt,1,15/01/2018 19:09,599,21309,female,no,<25,student,chittagong,medium,member
+536425,10338,naviforce Nf9172L gents watch,1,15/01/2018 19:09,2289,21309,female,no,<25,student,chittagong,medium,member
+536425,50015h,hijab,1,15/01/2018 19:09,300,21309,female,no,<25,student,chittagong,medium,member
+536425,50015hp,hijab pin(1set),1,15/01/2018 19:09,30,21309,female,no,<25,student,chittagong,medium,member
+536425,30996,ladies purse,1,15/01/2018 19:09,1650,21309,female,no,<25,student,chittagong,medium,member
+536425,61190,ladies half leather shoe,1,15/01/2018 19:09,1750,21309,female,no,<25,student,chittagong,medium,member
+536425,30996,ladies purse,1,15/01/2018 19:09,1650,21309,female,no,<25,student,chittagong,medium,member
+536425,61190,ladies half leather shoe,1,15/01/2018 19:09,1750,21309,female,no,<25,student,chittagong,medium,member
+536426,87065b,banana,12,16/01/2018 10:55,144,70912,male,yes,>35,pharmacist,dhaka,high,member
+536426,24570,pran all time milk bread,1,16/01/2018 10:55,45,70912,male,yes,>35,pharmacist,dhaka,high,member
+536426,88890,oregano,1,16/01/2018 10:55,70,70912,male,yes,>35,pharmacist,dhaka,high,member
+536426,99875,mozzarella cheese,1,16/01/2018 10:55,440,70912,male,yes,>35,pharmacist,dhaka,high,member
+536426,67789,pizza sauce,1,16/01/2018 10:55,400,70912,male,yes,>35,pharmacist,dhaka,high,member
+536426,85123m,milk,2,16/01/2018 10:55,160,70912,male,yes,>35,pharmacist,dhaka,high,member
+536426,19087m,mixed nuts,1,16/01/2018 10:55,220,70912,male,yes,>35,pharmacist,dhaka,high,member
+536426,54321m,amul dark chocolate,1,16/01/2018 10:55,280,70912,male,yes,>35,pharmacist,dhaka,high,member
+536426,67985,coffe matte,1,16/01/2018 10:55,270,70912,male,yes,>35,pharmacist,dhaka,high,member
+536426,67983,mac coffee,1,16/01/2018 10:55,395,70912,male,yes,>35,pharmacist,dhaka,high,member
+536426,54321k,kitkat,2,16/01/2018 10:55,130,70912,male,yes,>35,pharmacist,dhaka,high,member
+536426,10003c,kurkure cream & onion chips,4,16/01/2018 10:55,100,70912,male,yes,>35,pharmacist,dhaka,high,member
+536426,10004c,haque pillow chocolate chips,5,16/01/2018 10:55,50,70912,male,yes,>35,pharmacist,dhaka,high,member
+536426,10005c,sun chips salt & pepper,5,16/01/2018 10:55,75,70912,male,yes,>35,pharmacist,dhaka,high,member
+536426,10006c,bombay sweets dalmoth chanchur,2,16/01/2018 10:55,80,70912,male,yes,>35,pharmacist,dhaka,high,member
+536426,10007c,pringles hot & spicy potato chips,2,16/01/2018 10:55,450,70912,male,yes,>35,pharmacist,dhaka,high,member
+536426,76845o,olitalia extra virgin olive oil 1ltr,2,16/01/2018 10:55,2500,70912,male,yes,>35,pharmacist,dhaka,high,member
+536427,50015h,hijab,5,16/01/2018 19:09,1500,10660,female,yes,>35,housewife,munshiganj,high,member
+536427,50015hp,hijab pin(1set),3,16/01/2018 19:09,90,10660,female,yes,>35,housewife,munshiganj,high,member
+536427,91230o,parachute coconut oil,1,16/01/2018 13:01,135,10660,female,yes,>35,housewife,munshiganj,high,member
+536427,89532ss,sunsilik black shine shampo,1,16/01/2018 13:01,185,10660,female,yes,>35,housewife,munshiganj,high,member
+536428,20885w,ladies purse,1,17/01/2018 09:10,1650,11485,female,no,25-35,housewife,khulna,low,normal
+536428,50015h,hijab,5,17/01/2018 09:10,1500,11485,female,no,25-35,housewife,khulna,low,normal
+536428,50015hp,hijab pin(1set),3,17/01/2018 09:10,1500,11485,female,no,25-35,housewife,khulna,low,normal
+536428,89532ss,sunsilik black shine shampo,1,17/01/2018 09:11,185,11485,female,no,25-35,housewife,khulna,low,normal
+536428,28867,men's casul shirt,1,17/01/2018 09:12,599,11485,female,no,25-35,housewife,khulna,low,normal
+536437,18751p,pran mix fruit,1,18/01/2018 12:05,110,10013,female,yes,25-35,housewife,dhaka,medium,normal
+536437,24570,pran all time milk bread,2,18/01/2018 12:06,90,10013,female,yes,25-35,housewife,dhaka,medium,normal
+536437,87098e,egg,8,18/01/2018 12:08,64,10013,female,yes,25-35,housewife,dhaka,medium,normal
+536437,95432,honey,1,18/01/2018 12:09,122,10013,female,yes,25-35,housewife,dhaka,medium,normal
+536437,80457i,ispahani tea,1,18/01/2018 12:12,300,10013,female,yes,25-35,housewife,dhaka,medium,normal
+536437,85123m,milk,2,18/01/2018 12:20,160,10013,female,yes,25-35,housewife,dhaka,medium,normal
+536446,70768o,oats,1,18/01/2018 09:20,600,15009,male,no,25-35,teacher,chittagong,high,member
+536446,77098,apple cider vinegar,1,18/01/2018 09:22,210,15009,male,no,25-35,teacher,chittagong,high,member
+536446,89124,sugar,1,18/01/2018 09:23,78,15009,male,no,25-35,teacher,chittagong,high,member
+536446,24570,pran all time milk bread,1,18/01/2018 09:27,45,15009,male,no,25-35,teacher,chittagong,high,member
+536446,67986,nocilla cream,1,18/01/2018 09:28,130,15009,male,no,25-35,teacher,chittagong,high,member
+536446,85124m,low fat milk,1,18/01/2018 09:29,320,15009,male,no,25-35,teacher,chittagong,high,member
+536446,85133y,sour yoghurt,4,18/01/2018 09:29,25,15009,male,no,25-35,teacher,chittagong,high,member
+536446,87065b,banana,12,18/01/2018 09:30,144,15009,male,no,25-35,teacher,chittagong,high,member
+536460,67845s,savlon disinfectant spray,1,18/01/2018 10:00,170,20087,female,no,<25,student,coxs_bazar,low,normal
+536460,67846c,dish cleaning scrubber,4,18/01/2018 10:01,100,20087,female,no,<25,student,coxs_bazar,low,normal
+536460,67847i,aci aerosol insect spray,2,18/01/2018 10:01,510,20087,female,no,<25,student,coxs_bazar,low,normal
+536460,67844b,vim bar lemons,4,18/01/2018 10:01,48,20087,female,no,<25,student,coxs_bazar,low,normal
+536460,67848h,harpic,1,18/01/2018 10:02,110,20087,female,no,<25,student,coxs_bazar,low,normal
+536460,91230o,parachute coconut oil,1,18/01/2018 10:02,135,20087,female,no,<25,student,coxs_bazar,low,normal
+536460,45987,fresh soyebean oil,1,18/01/2018 10:02,712,20087,female,no,<25,student,coxs_bazar,low,normal
+536460,89532ss,sunsilik black shine shampo,1,18/01/2018 10:02,185,20087,female,no,<25,student,coxs_bazar,low,normal
+536460,78933cn,garnier color natural,2,18/01/2018 10:03,350,20087,female,no,<25,student,coxs_bazar,low,normal
+536460,89564hw,lifeboy hand wash,3,18/01/2018 10:03,150,20087,female,no,<25,student,coxs_bazar,low,normal
+536464,19087m,mixed nuts,1,19/01/2018 08:30,220,71209,female,yes,25-35,employee,dhaka,medium,normal
+536464,85123m,milk,1,19/01/2018 08:31,80,71209,female,yes,25-35,employee,dhaka,medium,normal
+536464,89124,sugar,1,19/01/2018 08:31,78,71209,female,yes,25-35,employee,dhaka,medium,normal
+536464,80457i,ispahani tea,1,19/01/2018 08:31,300,71209,female,yes,25-35,employee,dhaka,medium,normal
+536464,67983,mac coffee,1,19/01/2018 08:32,395,71209,female,yes,25-35,employee,dhaka,medium,normal
+536464,85123cm,danish condensed milk,1,19/01/2018 08:32,70,71209,female,yes,25-35,employee,dhaka,medium,normal
+536464,67459d,dansih full milk cream,1,19/01/2018 08:32,550,71209,female,yes,25-35,employee,dhaka,medium,normal
+536464,67398d,dream whip topping mix,1,19/01/2018 08:33,180,71209,female,yes,25-35,employee,dhaka,medium,normal
+536464,67985,coffe matte,1,19/01/2018 08:33,270,71209,female,yes,25-35,employee,dhaka,medium,normal
+536466,98754c,thai chilli paste,1,19/01/2018 09:33,499,81234,female,no,<25,artist,dhaka,low,member
+536466,98789,cocoaland cheese ring craker,1,19/01/2018 09:34,250,81234,female,no,<25,artist,dhaka,low,member
+536466,67789fs,fish sauce,1,19/01/2018 09:35,270,81234,female,no,<25,artist,dhaka,low,member
+536466,76845o,olitalia extra virgin olive oil 1ltr,1,19/01/2018 09:35,1250,81234,female,no,<25,artist,dhaka,low,member
+536466,10897,corn flour,1,19/01/2018 09:36,70,81234,female,no,<25,artist,dhaka,low,member
+536466,67789ss,soya sauce,1,19/01/2018 09:36,70,81234,female,no,<25,artist,dhaka,low,member
+536477,12309,sausage,1,19/01/2018 10:36,120,98340,female,yes,25-35,employee,dhaka,high,member
+536477,99875,mozzarella cheese,1,19/01/2018 10:37,220,98340,female,yes,25-35,employee,dhaka,high,member
+536477,74012p,pran sauce,1,19/01/2018 10:38,150,98340,female,yes,25-35,employee,dhaka,high,member
+536477,98789,cocoaland cheese ring craker,1,19/01/2018 10:39,250,98340,female,yes,25-35,employee,dhaka,high,member
+536477,98790,pure magic chocolush,1,19/01/2018 10:40,80,98340,female,yes,25-35,employee,dhaka,high,member
+536477,98791,choc chip cookie,1,19/01/2018 10:40,399,98340,female,yes,25-35,employee,dhaka,high,member
+536477,98792,yupi gummi pizza candy,1,19/01/2018 10:31,320,98340,female,yes,25-35,employee,dhaka,high,member
+536477,76845cg,capsicum green,0.5,19/01/2018 10:31,13,98340,female,yes,25-35,employee,dhaka,high,member
+536488,66945cb,canned beer,2,19/01/2018 12:25,90,61900,male,no,<25,student,dhaka,medium,normal
+536488,58956rb,rolls/buns,1,19/01/2018 12:25,85,61900,male,no,<25,student,dhaka,medium,normal
+536488,77880pp,popcorn,1,19/01/2018 12:25,100,61900,male,no,<25,student,dhaka,medium,normal
+536488,34987sw,sparkling wine,3,19/01/2018 12:25,200,61900,male,no,<25,student,dhaka,medium,normal
+536488,29823cb,chiken burger patty-golden harvest,1,19/01/2018 12:25,160,61900,male,no,<25,student,dhaka,medium,normal
+536488,74321cm,chicken meat ball- golden harvest,1,19/01/2018 12:25,245,61900,male,no,<25,student,dhaka,medium,normal
+536488,39984ff,fish finger-golden harvest,1,19/01/2018 12:26,175,61900,male,no,<25,student,dhaka,medium,normal
+536488,74012p,pran sauce,1,19/01/2018 12:26,150,61900,male,no,<25,student,dhaka,medium,normal
+536488,880970b,oreo biscuit,1,19/01/2018 12:26,120,61900,male,no,<25,student,dhaka,medium,normal
+536488,36782dp,deshi paratha-golden harvets,1,19/01/2018 12:27,265,61900,male,no,<25,student,dhaka,medium,normal
+536488,4589sw,strawberry wafers,2,19/01/2018 12:27,115,61900,male,no,<25,student,dhaka,medium,normal
+536488,89124,sugar,1,19/01/2018 12:27,78,61900,male,no,<25,student,dhaka,medium,normal
+536488,24570,pran all time milk bread,1,19/01/2018 12:27,45,61900,male,no,<25,student,dhaka,medium,normal
+536488,67986,nocilla cream,1,19/01/2018 12:27,130,61900,male,no,<25,student,dhaka,medium,normal
+536488,29910b,boost,1,19/01/2018 12:28,120,61900,male,no,<25,student,dhaka,medium,normal
+536488,10993m,milo,2,19/01/2018 12:28,180,61900,male,no,<25,student,dhaka,medium,normal
+565750,9191cc,clean & clear face wash,1, 20/01/18  7:30,899,40469,female,yes,25-35,model,gazipur,medium,member
+565750,6284am,aussie mega shampoo ,1, 20/01/18  7:30,830,40469,female,yes,25-35,model,gazipur,medium,member
+565750,3872gd,garnier body lotion,1, 20/01/18  7:30,1199,40469,female,yes,25-35,model,gazipur,medium,member
+565750,9112ll,loreal fine flower lotion,1, 20/01/18  7:31,760,40469,female,yes,25-35,model,gazipur,medium,member
+565750,78933cn,garnier color natural,2, 20/01/18  7:31,350,40469,female,yes,25-35,model,gazipur,medium,member
+565750,87631lc,loreal pure clay,2, 20/01/18  7:32,699,40469,female,yes,25-35,model,gazipur,medium,member
+565750,6969hf,himalaya face wash,2, 20/01/18  7:32,150,40469,female,yes,25-35,model,gazipur,medium,member
+565750,91230o,parachute coconut oil,1, 20/01/18  7:32,135,40469,female,yes,25-35,model,gazipur,medium,member
+565750,89532ss,sunsilik black shine shampo,1, 20/01/18  7:32,185,40469,female,yes,25-35,model,gazipur,medium,member
+565750,61190,ladies half leather shoe,1, 20/01/18  7:33,1750,40469,female,yes,25-35,model,gazipur,medium,member
+565750,30996,ladies purse,1, 20/01/18  7:33,1650,40469,female,yes,25-35,model,gazipur,medium,member
+565750,61975,Garnier skin active gel,1, 20/01/18  7:33,699,40469,female,yes,25-35,model,gazipur,medium,member
+565751,31234d,dory boneless fish,2, 20/01/18  9:30,580,20207,male,yes,>35,ceo,dhaka,high,member
+565751,6593l,lobster,4, 20/01/18  9:30,780,20207,male,yes,>35,ceo,dhaka,high,member
+565751,11404,rupchada,4, 20/01/18  9:30,880,20207,male,yes,>35,ceo,dhaka,high,member
+565751,12346bk,beef kema,1, 20/01/18  9:31,390,20207,male,yes,>35,ceo,dhaka,high,member
+565751,45981,chiken boneless breast,1, 20/01/18  9:31,345,20207,male,yes,>35,ceo,dhaka,high,member
+565751,87098e,egg,12, 20/01/18  9:31,96,20207,male,yes,>35,ceo,dhaka,high,member
+565751,98108,chili sauce,1, 20/01/18  9:31,180,20207,male,yes,>35,ceo,dhaka,high,member
+565751,98754c,thai chilli paste,1, 20/01/18  9:31,499,20207,male,yes,>35,ceo,dhaka,high,member
+565751,67789fs,fish sauce,1, 20/01/18  9:31,270,20207,male,yes,>35,ceo,dhaka,high,member
+565751,88890,oregano,1, 20/01/18  9:31,70,20207,male,yes,>35,ceo,dhaka,high,member
+565751,45990,green chilli ,1, 20/01/18  9:31,50,20207,male,yes,>35,ceo,dhaka,high,member
+565751,31234h,hilsha fish,1, 20/01/18  9:31,1100,20207,male,yes,>35,ceo,dhaka,high,member
+565751,31234r,rui deshi ,1.5, 20/01/18  9:31,290,20207,male,yes,>35,ceo,dhaka,high,member
+565751,85123m,milk,2, 20/01/18  9:31,160,20207,male,yes,>35,ceo,dhaka,high,member
+565754,31267p,fiber pillow,4,20/01/2018 09:00,2000,47420,female,no,25-35,accountant,dhaka,medium,normal
+565754,25889d,design mask,2,20/01/2018 09:00,380,47420,female,no,25-35,accountant,dhaka,medium,normal
+565754,12556t,mini travel bag,1,20/01/2018 09:00,820,47420,female,no,25-35,accountant,dhaka,medium,normal
+565754,90215j,jamdani katan 2 piece kameez,1,20/01/2018 09:10,360,47420,female,no,25-35,accountant,dhaka,medium,normal
+565754,30996,ladies purse,1,20/01/2018 09:10,1650,47420,female,no,25-35,accountant,dhaka,medium,normal
+565754,21599g,t-shirt for girls,1,20/01/2018 09:12,530,47420,female,no,25-35,accountant,dhaka,medium,normal
+565754,34228,summer long dress,1,20/01/2018 09:12,500,47420,female,no,25-35,accountant,dhaka,medium,normal
+565754,61190,ladies half leather shoe,1,20/01/2018 09:12,1750,47420,female,no,25-35,accountant,dhaka,medium,normal
+565758,72005b,bedsheet,2,20/01/2018 11:00,1200,59330,male,yes,25-35,manager,dhaka,high,member
+565758,31267p,fiber pillow,4,20/01/2018 11:00,2000,59330,male,yes,25-35,manager,dhaka,high,member
+565758,40927d,door mat,4,20/01/2018 11:06,380,59330,male,yes,25-35,manager,dhaka,high,member
+565758,29605p,indian sultan panjabi,1,20/01/2018 11:06,750,59330,male,yes,25-35,manager,dhaka,high,member
+565758,28867,men's casul shirt,1,20/01/2018 11:10,599,59330,male,yes,25-35,manager,dhaka,high,member
+565760,90215j,jamdani katan 2 piece kameez,1,20/01/2018 08:00,360,28649,female,no,<25,student,gazipur,medium,normal
+565760,28974w,wild turmeric powder,1,20/01/2018 08:00,320,28649,female,no,<25,student,gazipur,medium,normal
+565760,25889d,deign mask,2,20/01/2018 08:02,380,28649,female,no,<25,student,gazipur,medium,normal
+565760,33906s,simple hydrating moisturizer,1,20/01/2018 08:02,650,28649,female,no,<25,student,gazipur,medium,normal
+565762,72005b,bedsheet,2,20/01/2018 10:00,1200,10027,female,yes,25-35,housewife,khulna,low,normal
+565762,40927d,door mat,4,20/01/2018 10:00,380,10027,female,yes,25-35,housewife,khulna,low,normal
+565762,43219l,large travel bag,1,20/01/2018 10:02,417,10027,female,yes,25-35,housewife,khulna,low,normal
+565765,10897,corn flour,1,20/01/2018 10:02,70,57210,female,no,<25,student,comilla,high,member
+565765,67789ss,soya sauce,1,20/01/2018 12:30,70,57210,female,no,<25,student,comilla,high,member
+565765,12309,sausage,1,20/01/2018 12:30,120,57210,female,no,<25,student,comilla,high,member
+565765,99875,mozzarella cheese,1,20/01/2018 12:30,220,57210,female,no,<25,student,comilla,high,member
+565765,74012p,pran sauce,1,20/01/2018 12:30,150,57210,female,no,<25,student,comilla,high,member
+565778,10004c,haque pillow chocolate chips,10,20/01/2018 10:20,100,29845,male,yes,>35,employee,dinajpur,low,normal
+565778,98791,choc chip cookie,1,20/01/2018 10:20,399,29845,male,yes,>35,employee,dinajpur,low,normal
+565778,54321m,amul dark chocolate,1,20/01/2018 10:21,280,29845,male,yes,>35,employee,dinajpur,low,normal
+565778,54321k,kitkat,2,20/01/2018 10:22,130,29845,male,yes,>35,employee,dinajpur,low,normal
+565778,89532ss,sunsilik black shine shampo,1,20/01/2018 10:22,185,29845,male,yes,>35,employee,dinajpur,low,normal
+565778,12345,broiler chicken,3,20/01/2018 10:22,597,29845,male,yes,>35,employee,dinajpur,low,normal
+565778,45989,garlic,1,20/01/2018 10:23,85,29845,male,yes,>35,employee,dinajpur,low,normal
+565789,45988,ginger,1,20/01/2018 02:00,40,32486,male,yes,25-35,teacher,jessore,medium,normal
+565789,45990,green chilli ,1,20/01/2018 02:00,50,32486,male,yes,25-35,teacher,jessore,medium,normal
+565789,60984,onion,3,20/01/2018 02:00,306,32486,male,yes,25-35,teacher,jessore,medium,normal
+565789,67789ss,soya sauce,2,20/01/2018 02:01,140,32486,male,yes,25-35,teacher,jessore,medium,normal
+565789,67789fs,fish sauce,1,20/01/2018 02:01,270,32486,male,yes,25-35,teacher,jessore,medium,normal
+565789,31234h,hilsha fish,1,20/01/2018 02:01,1100,32486,male,yes,25-35,teacher,jessore,medium,normal
+565789,31234r,rui deshi ,1.5,20/01/2018 02:01,290,32486,male,yes,25-35,teacher,jessore,medium,normal
+565894,10006c,bombay sweets dalmoth chanchur,2,20/01/2018 05:22,80,19560,male,no,<25,student,gazipur,high,member
+565894,67983,mac coffee,1,20/01/2018 05:22,395,19560,male,no,<25,student,gazipur,high,member
+565894,87065b,banana,6,20/01/2018 05:22,72,19560,male,no,<25,student,gazipur,high,member
+565894,29501d,decorative fairy lights,1,20/01/2018 05:22,190,19560,male,no,<25,student,gazipur,high,member
+565894,36512b,black cotton cap for men,1,20/01/2018 05:26,120,19560,male,no,<25,student,gazipur,high,member
+565898,28449c,cotton hand work salwar kamiz,1,20/01/2018 09:00,1499,74901,female,yes,>35,housewife,dinajpur,medium,normal
+565898,51399s,slik khadi dupatta,1,20/01/2018 09:00,499,74901,female,yes,>35,housewife,dinajpur,medium,normal
+565898,89532ss,sunsilik black shine shampo,1,20/01/2018 09:05,185,74901,female,yes,>35,housewife,dinajpur,medium,normal
+565898,36789k,kids frock dress for summer,1,20/01/2018 09:05,254,74901,female,yes,>35,housewife,dinajpur,medium,normal
+565898,69832m,mini flower vase,2,20/01/2018 09:05,700,74901,female,yes,>35,housewife,dinajpur,medium,normal
+565898,91375t,temperature black hollow spoon,2,20/01/2018 09:06,150,74901,female,yes,>35,housewife,dinajpur,medium,normal
+565899,1998ro,ruchi orange jelly,1,21/01/2018 08:10,108,61272,male,yes,>35 ,police,dhaka,medium,normal
+565899,4769pb,peanut butter,1,21/01/2018 08:10,590,61272,male,yes,>35 ,police,dhaka,medium,normal
+565899,8845cf,nestle gold corn flakes,1,21/01/2018 08:10,320,61272,male,yes,>35 ,police,dhaka,medium,normal
+565899,70768o,oats,1,21/01/2018 08:11,600,61272,male,yes,>35 ,police,dhaka,medium,normal
+565899,24570,pran all time milk bread,2,21/01/2018 08:11,90,61272,male,yes,>35 ,police,dhaka,medium,normal
+565899,7121nc,neutella chocolate spread,1,21/01/2018 08:11,530,61272,male,yes,>35 ,police,dhaka,medium,normal
+565899,85123m,milk,1,21/01/2018 08:12,80,61272,male,yes,>35 ,police,dhaka,medium,normal
+565899,89124,sugar,1,21/01/2018 08:12,78,61272,male,yes,>35 ,police,dhaka,medium,normal
+565899,80457i,ispahani tea,1,21/01/2018 08:12,300,61272,male,yes,>35 ,police,dhaka,medium,normal
+564901,23374,charcoal black facial mask,1,21/01/2018 10:12,208,26984,female,yes,25-35,employee,dhaka,high,member
+564901,23263,parachute naturale shampoo,1,21/01/2018 10:12,330,26984,female,yes,25-35,employee,dhaka,high,member
+564901,91230o,parachute coconut oil,1,21/01/2018 10:12,135,26984,female,yes,25-35,employee,dhaka,high,member
+564901,89532ss,sunsilik black shine shampo,1,21/01/2018 10:12,185,26984,female,yes,25-35,employee,dhaka,high,member
+564901,78933cn,garnier color natural,2,21/01/2018 10:13,350,26984,female,yes,25-35,employee,dhaka,high,member
+564901,3872gd,garnier body lotion,1,21/01/2018 10:13,1199,26984,female,yes,25-35,employee,dhaka,high,member
+564901,9112ll,loreal fine flower lotion,1,21/01/2018 10:13,760,26984,female,yes,25-35,employee,dhaka,high,member
+564901,85066,assure hair oil,1,21/01/2018 10:13,426,26984,female,yes,25-35,employee,dhaka,high,member
+564901,23296,active woman perfume,1,21/01/2018 10:14,550,26984,female,yes,25-35,employee,dhaka,high,member
+564901,23168,veet hair remove,1,21/01/2018 10:14,90,26984,female,yes,25-35,employee,dhaka,high,member
+564901,22180,saffron goat milk soap,1,21/01/2018 10:14,950,26984,female,yes,25-35,employee,dhaka,high,member
+564901,22729,wax paper,1,21/01/2018 10:14,90,26984,female,yes,25-35,employee,dhaka,high,member
+564901,61975,Garnier skin active gel,1,21/01/2018 10:14,699,26984,female,yes,25-35,employee,dhaka,high,member
+564912,87065b,banana,6,21/01/2018 10:30,72,70981,male,yes,25-35,journalist,dhaka,high,normal
+564912,87098e,egg,4,21/01/2018 10:30,32,70981,male,yes,25-35,journalist,dhaka,high,normal
+564912,85123m,milk,2,21/01/2018 10:30,160,70981,male,yes,25-35,journalist,dhaka,high,normal
+564912,80457i,ispahani tea,1,21/01/2018 10:30,300,70981,male,yes,25-35,journalist,dhaka,high,normal
+564912,67983,mac coffee,1,21/01/2018 10:31,395,70981,male,yes,25-35,journalist,dhaka,high,normal
+564912,12345,broiler chicken,1,21/01/2018 10:31,199,70981,male,yes,25-35,journalist,dhaka,high,normal
+564912,67986,nocilla cream,1,21/01/2018 10:31,130,70981,male,yes,25-35,journalist,dhaka,high,normal
+564912,67987,naples mayonnaise,1,21/01/2018 10:31,195,70981,male,yes,25-35,journalist,dhaka,high,normal
+564912,4769pb,peanut butter,1,21/01/2018 10:32,590,70981,male,yes,25-35,journalist,dhaka,high,normal
+564912,8845cf,nestle gold corn flakes,1,21/01/2018 10:32,320,70981,male,yes,25-35,journalist,dhaka,high,normal
+564914,98108,chili sauce,1,21/01/2018 11:10,180,17706,female,no,25-35,teacher,khulna,high,member
+564914,67789os,oyster sauce,1,21/01/2018 11:10,425,17706,female,no,25-35,teacher,khulna,high,member
+564914,67789ss,soya sauce,1,21/01/2018 11:10,70,17706,female,no,25-35,teacher,khulna,high,member
+564914,10897,corn flour,1,21/01/2018 11:11,70,17706,female,no,25-35,teacher,khulna,high,member
+564914,5213nm,nestle maggi masala noodles,2,21/01/2018 11:11,384,17706,female,no,25-35,teacher,khulna,high,member
+564914,5214kr,korean ramen noodles,2,21/01/2018 11:11,318,17706,female,no,25-35,teacher,khulna,high,member
+564914,5321bp,barilla fusili pasta,1,21/01/2018 11:11,350,17706,female,no,25-35,teacher,khulna,high,member
+564914,9876yp,sunfeast yippee pasta,3,21/01/2018 11:12,198,17706,female,no,25-35,teacher,khulna,high,member
+564914,4532ls,well food lacha shemai,1,21/01/2018 11:12,117,17706,female,no,25-35,teacher,khulna,high,member
+564914,85123m,milk,1,21/01/2018 11:12,80,17706,female,no,25-35,teacher,khulna,high,member
+564950,67459d,dansih full milk cream,1,21/01/2018 12:12,550,10178,male,yes,>35,teacher,dhaka,medium,normal
+564950,67398d,dream whip topping mix,1,21/01/2018 12:12,180,10178,male,yes,>35,teacher,dhaka,medium,normal
+564950,87000,aci pure atta,1,21/01/2018 12:12,81,10178,male,yes,>35,teacher,dhaka,medium,normal
+564950,45987,fresh soyebean oil,1,21/01/2018 12:13,712,10178,male,yes,>35,teacher,dhaka,medium,normal
+564950,87098e,egg,4,21/01/2018 12:13,32,10178,male,yes,>35,teacher,dhaka,medium,normal
+564950,98754b,baking powder,1,21/01/2018 12:13,100,10178,male,yes,>35,teacher,dhaka,medium,normal
+564950,98753b,baking soda,1,21/01/2018 12:13,50,10178,male,yes,>35,teacher,dhaka,medium,normal
+564950,98754b,baking powder,1,21/01/2018 12:13,100,10178,male,yes,>35,teacher,dhaka,medium,normal

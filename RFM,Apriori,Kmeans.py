@@ -35,20 +35,33 @@ df.isnull().sum()
 
 #How many unique product are there?
 
-df["StockCode"].nunique()
+unique_product = df["StockCode"].nunique()
+print('Number of unique products are :',unique_product)
 
 
 
 #How many of each product are there?
 
-df["StockCode"].value_counts().head()
+each_product = df["Description"].value_counts().head()
+print('Number of each products have :',each_product)
+
 
 
 
 
 #Sort the 5 most ordered products from most to least.
+most_sold_products = df["Description"].value_counts().sort_values(ascending=False).head()
+print(most_sold_products)
 
-df["StockCode"].value_counts().sort_values(ascending=False).head()
+plt.figure(figsize=(15,5))
+sns.barplot(x = df.Description.value_counts().head(20).index, y = df.Description.value_counts().head(20).values, palette = 'gnuplot')
+plt.xlabel('Description', size = 15)
+plt.xticks(rotation=45)
+plt.ylabel('Count of Items', size = 15)
+plt.title('Top 20 Items purchased by customers', color = 'green', size = 20)
+#plt.show()
+
+
 
 
 
@@ -82,11 +95,11 @@ rfm = df.groupby('CustomerID').agg({'InvoiceDate': lambda invoiceDate: (today_da
                                      'TotalPrice': lambda TotalPrice: TotalPrice.sum()})
 
 
-#print(rfm.head())
+print(rfm.head())
 
 rfm.columns = ['recency', 'frequency', 'monetary']
 rfm = rfm[rfm["monetary"] > 0]
-#print(rfm.head(5))
+print(rfm.head(5))
 
 
 
@@ -107,7 +120,7 @@ rfm["monetary_score"] = pd.qcut(rfm['monetary'], 5, labels=[1, 2, 3, 4, 5])
 rfm["RFM_SCORE"] = (rfm['recency_score'].astype(str) +
                     rfm['frequency_score'].astype(str))
 
-#print(rfm.head(5))
+print(rfm.head(5))
 
 
 
@@ -211,12 +224,12 @@ from mlxtend.frequent_patterns import apriori
 from mlxtend.frequent_patterns import association_rules
 
 
-df = df.copy()
-df.query('Quantity < -80000')
-df.query('Quantity > 80000')
-
-basket = df.groupby(['InvoiceNo','Description'])['Quantity'].sum().unstack()
-print(basket.shape)
-
-basket = basket.applymap(basket.iloc[0].value_counts())
-print(basket.head(1))
+# df = df.copy()
+# df.query('Quantity < -80000')
+# df.query('Quantity > 80000')
+#
+# basket = df.groupby(['InvoiceNo','Description'])['Quantity'].sum().unstack()
+# print(basket.shape)
+#
+# basket = basket.applymap(basket.iloc[0].value_counts())
+# print(basket.head(1))
